@@ -55,4 +55,4 @@ Welcome to my technical portfolio. This repository serves as a comprehensive sho
 *   **Core Infrastructure:** Google Cloud Platform (GCP), Network Protocol Troubleshooting, Linux System Administration.
 
 ---
-*Generated professionally for SKK Migas Recruitment Assessment System.*
+*Developed professionally as a core Information Systems technical showcase.*
