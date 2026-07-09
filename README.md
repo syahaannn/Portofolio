@@ -1,8 +1,8 @@
-\# Technical Portfolio - M. Syahan Afdhal Hadaya
+\# 📊 M. Syahan Afdhal Hadaya | Technical Portfolio
 
 
 
-Welcome to my portfolio. This page summarizes the key data management and systems information projects I have engineered, showcasing my expertise in relational databases, data pipelines, and systems optimization.
+Welcome to my technical portfolio. This repository serves as a comprehensive showcase of my expertise in \*\*Data Management\*\*, \*\*Systems Information\*\*, and \*\*Backend Engineering\*\*\[cite: 1]. Below are the key data-driven systems I have designed and deployed\[cite: 1]:
 
 
 
@@ -10,61 +10,107 @@ Welcome to my portfolio. This page summarizes the key data management and system
 
 
 
-\### 1. Real-Time Flood \& Rainfall Detection System (Jambi Region)
-
-\*   \*\*Tech Stack:\*\* Flutter, MySQL, API Integration, IoT Integration
-
-\*   \*\*Data Context:\*\* Engineered a cross-platform system to ingestion and monitor high-precision data logs transmitted by IoT field devices.
-
-\*   \*\*Key Contributions:\*\* 
-
-&#x20;   \* Built a robust monitoring dashboard and optimized SQL fetching methodologies to process thousands of live sensor data logs without compromising application latency.
-
-&#x20;   \* Integrated mobile systems with a centralized database to ensure consistent data synchronization across multiple strategic dams.
+\## 🛠️ Core Projects Showcase
 
 
 
-\### 2. Student Entrepreneurship Marketplace Platform (Universitas Jambi)
+\### 🌊 1. Real-Time Flood \& Rainfall Detection System (Jambi Region)
 
-\*   \*\*Tech Stack:\*\* Laravel, PHP, JavaScript, MySQL, Midtrans API, RBAC
-
-\*   \*\*Data Context:\*\* Developed a secure and integrated transactional data management platform to support student business ecosystems.
-
-\*   \*\*Key Contributions:\*\*
-
-&#x20;   \* Designed a comprehensive relational database model using MySQL to manage integrated product, sales, and user accounts data.
-
-&#x20;   \* Implemented Role-Based Access Control (RBAC) to enforce rigorous security boundaries between Administrators, Sellers, and Buyers.
-
-&#x20;   \* Integrated Midtrans payment gateway to automate financial data synchronization and developed automated modules for invoicing and periodic sales reporting.
+<kbd>Flutter</kbd> <kbd>MySQL</kbd> <kbd>IoT Integration</kbd> <kbd>API Integration</kbd>\[cite: 1]
 
 
 
-\### 3. Inventory \& Cashier Desktop System (Bengkel Kita)
+\*   \*\*Data Context:\*\* Engineered a cross-platform architecture focused on the secure ingestion and real-time monitoring of high-precision environmental data logs transmitted via IoT field devices\[cite: 1].
 
-\*   \*\*Tech Stack:\*\* C#, SQL, MySQL, Front-end Development, RBAC
+\*   \*\*Key Engineering Contributions:\*\*
 
-\*   \*\*Data Context:\*\* Digitized legacy physical logging systems into a structured database solution to automate operational reporting.
+&#x20;   \*   \*\*High-Volume Ingestion:\*\* Built a robust monitoring dashboard and optimized complex SQL fetching methodologies to successfully process thousands of live sensor data logs while maintaining ultra-low application latency\[cite: 1].
 
-\*   \*\*Key Contributions:\*\*
-
-&#x20;   \* Designed relational schemas using SQL to structure complex item tracking and stock search architectures.
-
-&#x20;   \* Engineered a real-time data synchronization engine that automatically updates central inventory logs upon daily cashier transactions.
-
-&#x20;   \* Incorporated a role-based authentication framework to securely track cashier activity logs and maintain database integrity.
+&#x20;   \*   \*\*Data Consistency:\*\* Integrated mobile client systems with a centralized cloud database to guarantee seamless, real-time data synchronization across multiple strategic regional dams\[cite: 1].
 
 
 
-\### 4. AI-Powered Motion Detection Application (Fitnesskan)
+\---
 
-\*   \*\*Tech Stack:\*\* Node.js, Express.js, JavaScript, MySQL, Google Cloud Platform (GCP)
 
-\*   \*\*Data Context:\*\* Managed cloud infrastructure pipelines and backend data structures for asynchronous AI video processing data flow.
 
-\*   \*\*Key Contributions:\*\*
+\### 🛍️ 2. Student Entrepreneurship Marketplace Platform (Universitas Jambi)
 
-&#x20;   \* Optimized complex MySQL tables to log user analytical training history, video metadata, and organized motion tracking results efficiently.
+<kbd>Laravel</kbd> <kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>Midtrans API</kbd> <kbd>RBAC</kbd>\[cite: 1]
 
-&#x20;   \* Managed cloud resource layouts on GCP to implement large-scale video storage and built backend bridge APIs to transfer asynchronous data payloads smoothly.
+
+
+\*   \*\*Data Context:\*\* Designed and developed a secure, multi-tenant transactional data management platform tailored to sustain and track student business ecosystems\[cite: 1].
+
+\*   \*\*Key Engineering Contributions:\*\*
+
+&#x20;   \*   \*\*Relational Architecture:\*\* Modeled and managed a comprehensive relational database schema using MySQL to integrate complex product matrices, live sales data, and user identity lifecycles\[cite: 1].
+
+&#x20;   \*   \*\*Financial Automation:\*\* Integrated the Midtrans API payment gateway to automate financial ledger data synchronization, paired with custom modules for automated invoicing and periodic sales analytics\[cite: 1].
+
+&#x20;   \*   \*\*Data Security:\*\* Implemented a granular Role-Based Access Control (RBAC) mechanism to guarantee strict security boundaries and data isolation between Administrators, Sellers, and Buyers\[cite: 1].
+
+
+
+\---
+
+
+
+\### 🔧 3. Structured Inventory \& Cashier Desktop System (Bengkel Kita)
+
+<kbd>C#</kbd> <kbd>SQL</kbd> <kbd>MySQL</kbd> <kbd>Desktop Engineering</kbd> <kbd>RBAC</kbd>\[cite: 1]
+
+
+
+\*   \*\*Data Context:\*\* Digitized legacy brick-and-mortar paper logging routines into a highly structured database solution to automate organizational and financial operational reporting\[cite: 1].
+
+\*   \*\*Key Engineering Contributions:\*\*
+
+&#x20;   \*   \*\*Schema Optimization:\*\* Designed high-performance relational schemas using SQL to structure complex item tracking, category indexing, and optimized stock search algorithms\[cite: 1].
+
+&#x20;   \*   \*\*Real-Time Sync:\*\* Engineered a transaction-triggered data synchronization engine that instantly updates central inventory logs upon successful cashier checkouts\[cite: 1].
+
+&#x20;   \*   \*\*Audit Trail:\*\* Incorporated a role-based authentication framework to securely log and track cashier activities, preventing unauthorized state changes in the database\[cite: 1].
+
+
+
+\---
+
+
+
+\### 🏋️‍♂️ 4. AI-Powered Motion Detection Pipeline (Fitnesskan)
+
+<kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>MySQL</kbd> <kbd>Google Cloud Platform (GCP)</kbd> <kbd>AI Data Flow</kbd>\[cite: 1]
+
+
+
+\*   \*\*Data Context:\*\* Configured cloud infrastructure layout and backend data pipelines to handle large-scale, asynchronous AI video processing workloads\[cite: 1].
+
+\*   \*\*Key Engineering Contributions:\*\*
+
+&#x20;   \*   \*\*Performance Tuning:\*\* Tuned and optimized complex MySQL table structures to scale efficiently under high write-loads containing user analytical histories, media metadata, and structured motion calculation coordinates\[cite: 1].
+
+&#x20;   \*   \*\*Cloud Pipeline Management:\*\* Provisioned Google Cloud Platform (GCP) resources for secure object storage and implemented asynchronous backend bridge APIs to stream video telemetry to external AI models smoothly\[cite: 1].
+
+
+
+\---
+
+
+
+\## 🚀 Technical Proficiencies
+
+
+
+\*   \*\*Data Engineering \& Systems:\*\* Relational Database Design (MySQL, SQL), NoSQL, Systems Analysis, Asset Data Management\[cite: 1].
+
+\*   \*\*Backend Frameworks:\*\* Laravel (PHP), Express.js / Node.js (JavaScript)\[cite: 1].
+
+\*   \*\*Core Infrastructure:\*\* Google Cloud Platform (GCP), Network Protocol Troubleshooting, Linux System Administration\[cite: 1].
+
+
+
+\---
+
+\*Generated professionally for SKK Migas Recruitment Assessment System.\*
 
