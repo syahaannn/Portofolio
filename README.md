@@ -1,68 +1,91 @@
-# 📊 M. Syahan Afdhal Hadaya | Technical Portfolio
+# Hi, I'm Syahan 👋
 
-Welcome to my technical portfolio. This repository serves as a comprehensive showcase of my expertise in **Data Management**, **Systems Information**, and **Fullstack Engineering**. Below are the key data-driven systems I have designed, deployed, and administered:
+Fullstack Developer with 2+ years of hands-on experience building real systems for real users — not tutorial clones. Currently finishing my Information Systems degree at Universitas Jambi (GPA 3.91/4.00, Best Graduate — Faculty of Science & Technology 🎓).
 
----
+I like solving boring problems (inventory, payments, data pipelines) in ways that don't feel boring to use.
 
-## 🛠️ Core Projects Showcase
-
-### 🌊 1. Real-Time Flood & Rainfall Detection System (Jambi Region)
-<kbd>Flutter</kbd> <kbd>MySQL</kbd> <kbd>IoT Ingestion</kbd> <kbd>Data Visualization</kbd>
-
-*   **Data Context:** Engineered a cross-platform data pipeline focused on the secure ingestion and real-time monitoring of high-precision telemetry data logs transmitted via IoT field devices.
-*   **Key Engineering Contributions:**
-    *   **Data Visualization & Ingestion:** Built an interactive monitoring dashboard and optimized complex SQL fetching methodologies to successfully process and visualize thousands of live sensor data logs while maintaining ultra-low latency.
-    *   **Data Consistency:** Integrated mobile client systems with a centralized database to guarantee seamless, real-time data synchronization across multiple strategic regional dams.
+📍 Kota Jambi, Indonesia
+📫 syahanafdhal93@gmail.com
+🔗 [LinkedIn](https://linkedin.com/syahanafdhal)
 
 ---
 
-### 🛍️ 2. Student Entrepreneurship Marketplace Platform (Universitas Jambi)
-<kbd>Laravel</kbd> <kbd>PHP</kbd> <kbd>MySQL</kbd> <kbd>Midtrans API</kbd> <kbd>RBAC</kbd>
+## ⚡ Quick Facts
 
-*   **Data Context:** Designed and developed a secure, multi-tenant transactional data management platform tailored to sustain, audit, and track student business ecosystems.
-*   **Key Engineering Contributions:**
-    *   **Relational Architecture:** Modeled and managed a comprehensive relational database schema using MySQL to integrate complex product matrices, live sales datasets, and user identity lifecycles.
-    *   **Financial Automation:** Integrated the Midtrans API payment gateway to automate financial ledger data synchronization, paired with custom modules for automated invoicing and periodic sales analytics.
-    *   **Data Security:** Implemented a granular Role-Based Access Control (RBAC) mechanism to guarantee strict security boundaries and data isolation between Administrators, Sellers, and Buyers.
-
----
-
-### 🐠 3. Ornamental Fish E-Commerce & Inventory System (EMIZFLOW)
-<kbd>Native PHP</kbd> <kbd>MySQL</kbd> <kbd>Relational Databases</kbd> <kbd>Data Management</kbd>
-
-*   **Data Context:** Architected a dedicated web-based commercial platform focusing on relational database management systems (RDBMS) for transaction lifecycle tracking and inventory auditing.
-*   **Key Engineering Contributions:**
-    *   **Schema Design & CRUD Operations:** Designed structured MySQL relational schemas to manage core entities including product matrices, live stock levels, customer profiles, and transaction records.
-    *   **Admin Audit Dashboard:** Developed a comprehensive administrative control panel with full CRUD capabilities to monitor stock changes in real-time and generate structured periodic sales management reports.
+- 🏆 Best Graduate, Information Systems, Universitas Jambi
+- 💼 2+ years as a Full Stack Developer at PT. Dialogika Bumi Nusantara
+- 📈 Shipped a marketplace platform serving 30+ student businesses, cut load times with a 30% performance boost through indexing + session optimization
+- ☁️ Google-endorsed Cloud Computing cert via Bangkit Academy 2023 (backed by Google, GoTo, Traveloka)
+- 🧑‍🏫 Mentored 40+ students in Laravel, JS & MySQL as part of HIMASI's Research & Tech Division
 
 ---
 
-### 🔧 4. Structured Inventory & Cashier Desktop System (Bengkel Kita)
-<kbd>C#</kbd> <kbd>SQL</kbd> <kbd>MySQL</kbd> <kbd>Desktop Engineering</kbd> <kbd>RBAC</kbd>
+## 🛠️ Projects
 
-*   **Data Context:** Digitized legacy brick-and-mortar paper logging routines into a highly structured database solution to automate organizational asset tracking and financial operational reporting.
-*   **Key Engineering Contributions:**
-    *   **Schema Optimization:** Designed high-performance relational schemas using SQL to structure complex item tracking, category indexing, and optimized stock search algorithms.
-    *   **Real-Time Sync:** Engineered a transaction-triggered data synchronization engine that instantly updates central inventory logs upon successful cashier checkouts.
-    *   **Audit Trail:** Incorporated a role-based authentication framework to securely log and track cashier activities, preventing unauthorized state changes in the database.
+### 🌊 Flood & Rainfall Detection System — Jambi Region
+`Flutter` `MySQL` `IoT` `API Integration`
 
----
+A real-time monitoring app that pulls live telemetry from IoT sensors installed across several dams in Jambi. The hard part wasn't the UI — it was keeping the dashboard responsive while thousands of sensor logs streamed in continuously. Solved it by optimizing the SQL fetch layer instead of throwing more hardware at it.
 
-### 🏋️‍♂️ 5. AI-Powered Motion Detection Pipeline (Fitnesskan)
-<kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>MySQL</kbd> <kbd>Google Cloud Platform (GCP)</kbd> <kbd>AI Integration</kbd>
-
-*   **Data Context:** Configured cloud infrastructure layout and backend data pipelines to handle large-scale, asynchronous AI video processing workloads.
-*   **Key Engineering Contributions:**
-    *   **Performance Tuning:** Tuned and optimized complex MySQL table structures to scale efficiently under high write-loads containing user analytical histories, media metadata, and structured motion calculation coordinates.
-    *   **Cloud Pipeline Management:** Provisioned Google Cloud Platform (GCP) resources for secure object storage and implemented asynchronous backend bridge APIs to stream video telemetry to external AI models smoothly.
+**Why it matters:** flood early-warning systems in this region were largely manual before this. This closes that gap with actual live data instead of someone checking a gauge by hand.
 
 ---
 
-## 🚀 Technical Proficiencies
+### 🛍️ Student Entrepreneurship Marketplace — Universitas Jambi
+`Laravel` `PHP` `MySQL` `Midtrans API` `RBAC`
 
-*   **Data Engineering & Systems:** Relational Database Design (MySQL, SQL), NoSQL, Systems Analysis, Asset Data Management, Real-Time Data Visualization.
-*   **Backend & Programming:** Laravel (PHP), Native PHP, Express.js / Node.js (JavaScript), C#, Vue.js.
-*   **Core Infrastructure & OS:** Google Cloud Platform (GCP), Linux/Unix System Administration, Network Protocol Troubleshooting, System Infrastructure Services.
+Built for the Faculty of Medicine & Health Sciences to give 30+ student-run businesses an actual sales platform instead of managing orders over WhatsApp.
+
+- Integrated **Midtrans** for multi-method payments + real-time order sync
+- Improved system performance by **30%** via database indexing and secure session handling (Laravel Sanctum + Eloquent ORM)
+- Built role-based dashboards so Admins, Sellers, and Buyers each only see what they need to
 
 ---
-*Developed professionally as a core Information Systems technical showcase.*
+
+### 🐠 EMIZFLOW — Ornamental Fish E-Commerce & Inventory
+`Native PHP` `MySQL` `Full Stack`
+
+Built from scratch with native PHP (no framework crutch) — a full e-commerce flow from product catalog to checkout, plus an admin dashboard for real-time stock tracking and monthly sales reports.
+
+**Why native PHP:** wanted to actually understand what Laravel abstracts away before relying on it full-time. Turned out to be a good call — makes debugging framework issues later a lot less mysterious.
+
+---
+
+### 🔧 Bengkel Kita — Inventory & Cashier Desktop App
+`C#` `SQL` `MySQL` `RBAC`
+
+Digitized a workshop's paper-based stock and sales logging into a desktop system. Cashier transactions sync to inventory in real time, and role-based auth keeps a clean audit trail of who did what — important once money and stock both need to reconcile at the end of the day.
+
+---
+
+### 🏋️ Fitnesskan — AI-Powered Motion Detection (Virtual Personal Trainer)
+`Node.js` `Express.js` `MySQL` `GCP` `AI Integration`
+
+Backend + cloud infrastructure for an app that analyzes workout form from video. My part was the unglamorous-but-critical stuff: async pipelines to stream video to the AI model without blocking the app, GCP object storage for large video files, and MySQL schemas that don't fall over once you add motion-coordinate data on top of regular user data.
+
+---
+
+## 🧰 Tech I Work With
+
+**Languages & Frameworks:** PHP (Laravel, Native), JavaScript (Vue.js, Express.js, Node.js), C#, SQL, NoSQL, R
+**Cloud & Infra:** Google Cloud Platform, Linux/Unix administration, network troubleshooting
+**Tools:** VS Code, PHPStorm, Git
+
+---
+
+## 📜 Certifications
+
+- Google Cloud Engineer — Dicoding Indonesia (2023)
+- Bangkit Academy 2023 — Cloud Computing
+- Database Design & Programming with SQL — Oracle x Kominfo Digital Talent Scholarship (2022)
+- The Bits and Bytes of Computer Networking — Coursera (2023)
+
+---
+
+## 🎯 What's Next
+
+Building toward an IT startup, or lecturing at university level — either way, I like being close to both the code and the people using it. Currently open to interesting fullstack or backend-heavy roles.
+
+---
+
+💬 Feel free to reach out if any of these projects overlap with something you're building — always down to talk shop over coffee ☕
