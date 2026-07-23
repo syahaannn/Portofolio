@@ -2,7 +2,7 @@
 
 Fullstack Developer with 2+ years of hands-on experience building real systems for real users — not tutorial clones. Currently finishing my Information Systems degree at Universitas Jambi (GPA 3.91/4.00, Best Graduate — Faculty of Science & Technology 🎓).
 
-I like solving boring problems (inventory, payments, data pipelines) in ways that don't feel boring to use.
+I like solving boring problems in ways that don't feel boring to use.
 
 📍 Kota Jambi, Indonesia
 📫 syahanafdhal93@gmail.com
