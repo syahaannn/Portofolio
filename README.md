@@ -82,10 +82,5 @@ Backend + cloud infrastructure for an app that analyzes workout form from video.
 
 ---
 
-## 🎯 What's Next
-
-Building toward an IT startup, or lecturing at university level — either way, I like being close to both the code and the people using it. Currently open to interesting fullstack or backend-heavy roles.
-
----
 
 💬 Feel free to reach out if any of these projects overlap with something you're building — always down to talk shop over coffee ☕
